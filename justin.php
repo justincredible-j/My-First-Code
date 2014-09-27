@@ -1,4 +1,4 @@
 <?php
 
-	echo "I am justin";
+	echo "I am Justin and welcome to my page.";
 ?>
