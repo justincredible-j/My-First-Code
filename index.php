@@ -12,6 +12,7 @@
 
 <html>
 	<head>
+    <title>Justin's Homework</title>
 		<style type="text/css">
             body {
                 padding: 10px;
@@ -19,8 +20,9 @@
 		</style>
 	</head>
 	<body>
-	   this is the content of my webpage
+	  <h2>Homework Assignments</h2>
 
-       <a href="/justin.php">Justin's page</a>
+       <a href="/justin.php">Justin's 1st page</a><br>
+       <a href="/columns.php">Column Assignment (rough cut)</a>
 	</body>
 </html>
