@@ -1,4 +1,3 @@
-
 <html>
 	<head>
 		<title>Justincredible</title>
@@ -8,6 +7,7 @@
 		<h1><?php
 	echo "Justincredible's Homework Page!";
 ?></p></h1>
+	<?php include 'nav.php';?>	
 	Working on the basics right now.<br>
 	Then I will move on to my actual assignment :/
 	<p>I have <em>no</em> idea what to be putting in here!</p>
@@ -20,7 +20,6 @@
 			<li>Your hand looks heavy. Can I hold it for you?</li>
 			<li>Roses are red. True love is rare. Booty booty booty booty rockin' everywhere.</li>
 		</ul></p>
-	<em>To view the assignment list click</em> <a href="index.php"><em><strong>HERE</strong></em></a>
 </body>
 
 </html>

@@ -23,6 +23,7 @@
 	  <h2>Homework Assignments</h2>
 
        <a href="/justin.php">Justin's 1st page</a><br>
-       <a href="/columns.php">Column Assignment (rough cut)</a>
+       <a href="/columns.php">Column Assignment</a><br>
+       <a href="get.php">GET URL</a>
 	</body>
 </html>
